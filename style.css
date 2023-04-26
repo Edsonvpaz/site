@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+}
+.cabeça{
+    background-color: rgb(24, 146, 202);
+    
+}
+body{
+    background-color: rgb(176, 210, 240);
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.media{
+    background-color: rgb(63, 82, 190);
+}
+.bob{
+    height: 386px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
